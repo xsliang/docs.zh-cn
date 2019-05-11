@@ -19,7 +19,7 @@ ms.locfileid: "61752433"
 
 ## <a name="new-to-net"></a>初次使用 .NET
 
-如果希望了解有关 .NET 的高级概述，请查看[什么是 .NET？](https://www.microsoft.com/net/learn/what-is-dotnet)。
+如果希望了解有关 .NET 的总体概述，请查看[什么是 .NET？](https://www.microsoft.com/net/learn/what-is-dotnet)。
 
 如果不熟悉 .NET，请查看[入门](get-started.md)文章。
 
